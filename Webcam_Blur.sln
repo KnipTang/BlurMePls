@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCVCourse", "OpenCVCourse\OpenCVCourse.vcxproj", "{0E594707-F036-4700-B88A-563D2AC29992}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Webcam_Blur", "Webcam_Blur\Webcam_Blur.vcxproj", "{0E594707-F036-4700-B88A-563D2AC29992}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
